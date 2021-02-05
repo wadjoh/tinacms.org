@@ -1,414 +1,399 @@
-[
-  {
-    "title": "Getting Started",
-    "id": "getting-started",
-    "items": [
-      {
-        "id": "/docs/getting-started/introduction",
-        "slug": "/docs/getting-started/introduction",
-        "title": "Introduction"
-      },
-      {
-        "id": "/docs/getting-started/cms-set-up",
-        "slug": "/docs/getting-started/cms-set-up",
-        "title": "Set Up the CMS"
-      },
-      {
-        "id": "/docs/getting-started/edit-content",
-        "slug": "/docs/getting-started/edit-content",
-        "title": "Edit Content"
-      },
-      {
-        "id": "/docs/getting-started/backends",
-        "slug": "/docs/getting-started/backends",
-        "title": "Backends"
-      },
-      {
-        "id": "/docs/getting-started/faq",
-        "slug": "/docs/getting-started/faq",
-        "title": "FAQ"
-      }
-    ]
-  },
-  {
-    "title": "CMS",
-    "id": "the-cms",
-    "items": [{ "id": "/docs/cms", "slug": "/docs/cms", "title": "Overview" }]
-  },
-  {
-    "title": "User Interface",
-    "id": "user-interface",
-    "items": [
-      {
-        "id": "/docs/ui",
-        "title": "Sidebar & Toolbar",
-        "slug": "/docs/ui"
-      },
-      {
-        "title": "Inline Editing",
-        "id": "inline-editing",
-        "slug": "/docs/ui/inline-editing",
-        "items": [
-          {
-            "id": "/docs/ui/inline-editing/inline-text",
-            "title": "Inline Text",
-            "slug": "/docs/ui/inline-editing/inline-text"
-          },
-          {
-            "id": "/docs/ui/inline-editing/inline-textarea",
-            "title": "Inline Textarea",
-            "slug": "/docs/ui/inline-editing/inline-textarea"
-          },
-          {
-            "id": "/docs/ui/inline-editing/inline-wysiwyg",
-            "title": "Inline Wysiwyg",
-            "slug": "/docs/ui/inline-editing/inline-wysiwyg"
-          },
-          {
-            "id": "/docs/ui/inline-editing/inline-image",
-            "title": "Inline Image",
-            "slug": "/docs/ui/inline-editing/inline-image"
-          },
-          {
-            "id": "/docs/ui/inline-editing/inline-group",
-            "title": "Inline Group",
-            "slug": "/docs/ui/inline-editing/inline-group"
-          },
-          {
-            "id": "/docs/ui/inline-editing/inline-blocks",
-            "title": "Inline Blocks",
-            "slug": "/docs/ui/inline-editing/inline-blocks"
-          }
+[{
+        "title": "Getting Started",
+        "id": "getting-started",
+        "items": [{
+                "id": "/docs/getting-started/introduction",
+                "slug": "/docs/getting-started/introduction",
+                "title": "Introduction"
+            },
+            {
+                "id": "/docs/getting-started/cms-set-up",
+                "slug": "/docs/getting-started/cms-set-up",
+                "title": "Set Up the CMS"
+            },
+            {
+                "id": "/docs/getting-started/edit-content",
+                "slug": "/docs/getting-started/edit-content",
+                "title": "Edit Content"
+            },
+            {
+                "id": "/docs/getting-started/backends",
+                "slug": "/docs/getting-started/backends",
+                "title": "Backends"
+            },
+            {
+                "id": "/docs/getting-started/faq",
+                "slug": "/docs/getting-started/faq",
+                "title": "FAQ"
+            }
         ]
-      },
-      {
-        "id": "/docs/ui/alerts",
-        "title": "Alerts",
-        "slug": "/docs/ui/alerts"
-      },
-      {
-        "id": "/docs/ui/styles",
-        "title": "Custom Styles",
-        "slug": "/docs/ui/styles"
-      }
-    ]
-  },
-  {
-    "id": "plugins",
-    "title": "Plugins",
-    "items": [
-      {
-        "title": "About Plugins",
-        "id": "forms",
-        "slug": "/docs/plugins"
-      },
-      {
-        "title": "Forms",
-        "id": "forms",
-        "slug": "/docs/plugins/forms"
-      },
-      {
-        "title": "Fields",
-        "id": "fields",
-        "slug": "/docs/plugins/fields",
-        "items": [
-          {
-            "id": "/docs/plugins/fields/text",
-            "slug": "/docs/plugins/fields/text",
-            "title": "Text"
-          },
-          {
-            "id": "/docs/plugins/fields/textarea",
-            "slug": "/docs/plugins/fields/textarea",
-            "title": "Text Area"
-          },
+    },
+    {
+        "title": "CMS",
+        "id": "the-cms",
+        "items": [{ "id": "/docs/cms", "slug": "/docs/cms", "title": "Overview" }]
+    },
+    {
+        "title": "User Interface",
+        "id": "user-interface",
+        "items": [{
+                "id": "/docs/ui",
+                "title": "Sidebar & Toolbar",
+                "slug": "/docs/ui"
+            },
+            {
+                "title": "Inline Editing",
+                "id": "inline-editing",
+                "slug": "/docs/ui/inline-editing",
+                "items": [{
+                        "id": "/docs/ui/inline-editing/inline-text",
+                        "title": "Inline Text",
+                        "slug": "/docs/ui/inline-editing/inline-text"
+                    },
+                    {
+                        "id": "/docs/ui/inline-editing/inline-textarea",
+                        "title": "Inline Textarea",
+                        "slug": "/docs/ui/inline-editing/inline-textarea"
+                    },
+                    {
+                        "id": "/docs/ui/inline-editing/inline-wysiwyg",
+                        "title": "Inline Wysiwyg",
+                        "slug": "/docs/ui/inline-editing/inline-wysiwyg"
+                    },
+                    {
+                        "id": "/docs/ui/inline-editing/inline-image",
+                        "title": "Inline Image",
+                        "slug": "/docs/ui/inline-editing/inline-image"
+                    },
+                    {
+                        "id": "/docs/ui/inline-editing/inline-group",
+                        "title": "Inline Group",
+                        "slug": "/docs/ui/inline-editing/inline-group"
+                    },
+                    {
+                        "id": "/docs/ui/inline-editing/inline-blocks",
+                        "title": "Inline Blocks",
+                        "slug": "/docs/ui/inline-editing/inline-blocks"
+                    }
+                ]
+            },
+            {
+                "id": "/docs/ui/alerts",
+                "title": "Alerts",
+                "slug": "/docs/ui/alerts"
+            },
+            {
+                "id": "/docs/ui/styles",
+                "title": "Custom Styles",
+                "slug": "/docs/ui/styles"
+            }
+        ]
+    },
+    {
+        "id": "plugins",
+        "title": "Plugins",
+        "items": [{
+                "title": "About Plugins",
+                "id": "forms",
+                "slug": "/docs/plugins"
+            },
+            {
+                "title": "Forms",
+                "id": "forms",
+                "slug": "/docs/plugins/forms"
+            },
+            {
+                "title": "Fields",
+                "id": "fields",
+                "slug": "/docs/plugins/fields",
+                "items": [{
+                        "id": "/docs/plugins/fields/text",
+                        "slug": "/docs/plugins/fields/text",
+                        "title": "Text"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/textarea",
+                        "slug": "/docs/plugins/fields/textarea",
+                        "title": "Text Area"
+                    },
 
-          {
-            "id": "/docs/plugins/fields/number",
-            "slug": "/docs/plugins/fields/number",
-            "title": "Number"
-          },
+                    {
+                        "id": "/docs/plugins/fields/number",
+                        "slug": "/docs/plugins/fields/number",
+                        "title": "Number"
+                    },
 
-          {
-            "id": "/docs/plugins/fields/image",
-            "slug": "/docs/plugins/fields/image",
-            "title": "Image"
-          },
-          {
-            "id": "/docs/plugins/fields/color",
-            "slug": "/docs/plugins/fields/color",
-            "title": "Color"
-          },
-          {
-            "id": "/docs/plugins/fields/toggle",
-            "slug": "/docs/plugins/fields/toggle",
-            "title": "Toggle"
-          },
-          {
-            "id": "/docs/plugins/fields/select",
-            "slug": "/docs/plugins/fields/select",
-            "title": "Select"
-          },
-          {
-            "id": "/docs/plugins/fields/tags",
-            "slug": "/docs/plugins/fields/tags",
-            "title": "Tags"
-          },
-          {
-            "id": "/docs/plugins/fields/list",
-            "slug": "/docs/plugins/fields/list",
-            "title": "List"
-          },
-          {
-            "id": "/docs/plugins/fields/group",
-            "slug": "/docs/plugins/fields/group",
-            "title": "Group"
-          },
-          {
-            "id": "/docs/plugins/fields/group-list",
-            "slug": "/docs/plugins/fields/group-list",
-            "title": "Group List"
-          },
-          {
-            "id": "/docs/plugins/fields/blocks",
-            "slug": "/docs/plugins/fields/blocks",
-            "title": "Blocks"
-          },
-          {
-            "id": "/docs/plugins/fields/date",
-            "slug": "/docs/plugins/fields/date",
-            "title": "Date & Time"
-          },
-          {
-            "id": "/docs/plugins/fields/markdown",
-            "slug": "/docs/plugins/fields/markdown",
-            "title": "Markdown"
-          },
-          {
-            "id": "/docs/plugins/fields/html",
-            "slug": "/docs/plugins/fields/html",
-            "title": "HTML"
-          },
-          {
-            "id": "/docs/plugins/fields/custom-fields",
-            "slug": "/docs/plugins/fields/custom-fields",
-            "title": "Custom Fields"
-          }
+                    {
+                        "id": "/docs/plugins/fields/image",
+                        "slug": "/docs/plugins/fields/image",
+                        "title": "Image"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/color",
+                        "slug": "/docs/plugins/fields/color",
+                        "title": "Color"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/toggle",
+                        "slug": "/docs/plugins/fields/toggle",
+                        "title": "Toggle"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/radio-group",
+                        "slug": "/docs/plugins/fields/radio-group",
+                        "title": "Radio Group"
+                    },
+
+                    {
+                        "id": "/docs/plugins/fields/select",
+                        "slug": "/docs/plugins/fields/select",
+                        "title": "Select"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/tags",
+                        "slug": "/docs/plugins/fields/tags",
+                        "title": "Tags"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/list",
+                        "slug": "/docs/plugins/fields/list",
+                        "title": "List"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/group",
+                        "slug": "/docs/plugins/fields/group",
+                        "title": "Group"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/group-list",
+                        "slug": "/docs/plugins/fields/group-list",
+                        "title": "Group List"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/blocks",
+                        "slug": "/docs/plugins/fields/blocks",
+                        "title": "Blocks"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/date",
+                        "slug": "/docs/plugins/fields/date",
+                        "title": "Date & Time"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/markdown",
+                        "slug": "/docs/plugins/fields/markdown",
+                        "title": "Markdown"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/html",
+                        "slug": "/docs/plugins/fields/html",
+                        "title": "HTML"
+                    },
+                    {
+                        "id": "/docs/plugins/fields/custom-fields",
+                        "slug": "/docs/plugins/fields/custom-fields",
+                        "title": "Custom Fields"
+                    }
+                ]
+            },
+            {
+                "title": "Content Creators",
+                "id": "content-creator",
+                "slug": "/docs/plugins/content-creators"
+            },
+            {
+                "title": "Screens",
+                "id": "screens",
+                "slug": "/docs/plugins/screens"
+            },
+            {
+                "title": "Toolbar Widgets",
+                "id": "toolbar:widget",
+                "slug": "/docs/plugins/toolbar-widgets"
+            }
         ]
-      },
-      {
-        "title": "Content Creators",
-        "id": "content-creator",
-        "slug": "/docs/plugins/content-creators"
-      },
-      {
-        "title": "Screens",
-        "id": "screens",
-        "slug": "/docs/plugins/screens"
-      },
-      {
-        "title": "Toolbar Widgets",
-        "id": "toolbar:widget",
-        "slug": "/docs/plugins/toolbar-widgets"
-      }
-    ]
-  },
-  {
-    "id": "events",
-    "title": "Events",
-    "items": [
-      {
-        "id": "/docs/events",
-        "slug": "/docs/events",
-        "title": "About Events"
-      }
-    ]
-  },
-  {
-    "title": "Media",
-    "id": "media",
-    "items": [
-      {
-        "id": "/docs/media",
-        "slug": "/docs/media",
-        "title": "About Media"
-      }
-    ]
-  },
-  {
-    "id": "apis",
-    "title": "External APIs",
-    "items": [
-      {
-        "id": "/docs/api",
-        "slug": "/docs/apis",
-        "title": "About APIs"
-      }
-    ]
-  },
-  {
-    "title": "Integrations",
-    "id": "nextjs",
-    "items": [
-      {
-        "id": "/docs/integrations/nextjs",
-        "slug": "/docs/integrations/nextjs",
-        "title": "Next.js"
-      },
-      {
-        "id": "/docs/integrations/gatsby",
-        "slug": "/docs/integrations/gatsby",
-        "title": "Gatsby"
-      }
-    ]
-  },
-  {
-    "title": "Guides",
-    "id": "guides",
-    "items": [
-      {
-        "id": "/guides",
-        "slug": "/guides",
-        "title": "Overview"
-      },
-      {
-        "id": "/guides#general",
-        "href": "/guides#general",
-        "title": "General",
-        "items": [
-          {
-            "id": "/guides/general/inline-blocks/overview",
-            "slug": "/guides/general/inline-blocks/overview",
-            "title": "Inline Blocks"
-          }
+    },
+    {
+        "id": "events",
+        "title": "Events",
+        "items": [{
+            "id": "/docs/events",
+            "slug": "/docs/events",
+            "title": "About Events"
+        }]
+    },
+    {
+        "title": "Media",
+        "id": "media",
+        "items": [{
+            "id": "/docs/media",
+            "slug": "/docs/media",
+            "title": "About Media"
+        }]
+    },
+    {
+        "id": "apis",
+        "title": "External APIs",
+        "items": [{
+            "id": "/docs/api",
+            "slug": "/docs/apis",
+            "title": "About APIs"
+        }]
+    },
+    {
+        "title": "Integrations",
+        "id": "nextjs",
+        "items": [{
+                "id": "/docs/integrations/nextjs",
+                "slug": "/docs/integrations/nextjs",
+                "title": "Next.js"
+            },
+            {
+                "id": "/docs/integrations/gatsby",
+                "slug": "/docs/integrations/gatsby",
+                "title": "Gatsby"
+            }
         ]
-      },
-      {
-        "id": "/guides#nextjs",
-        "href": "/guides#nextjs",
-        "title": "Next.js",
-        "items": [
-          {
-            "id": "/guides/nextjs/adding-tina/overview",
-            "slug": "/guides/nextjs/adding-tina/overview",
-            "title": "Adding Tina"
-          },
-          {
-            "id": "/guides/nextjs/git/getting-started",
-            "slug": "/guides/nextjs/git/getting-started",
-            "title": "Git Backend"
-          },
-          {
-            "id": "/guides/nextjs/github/initial-setup",
-            "slug": "/guides/nextjs/github/initial-setup",
-            "title": "GitHub Backend"
-          },
-          {
-            "id": "/guides/nextjs/tina-with-strapi/overview",
-            "slug": "/guides/nextjs/tina-with-strapi/overview",
-            "title": "Strapi Backend"
-          }
+    },
+    {
+        "title": "Guides",
+        "id": "guides",
+        "items": [{
+                "id": "/guides",
+                "slug": "/guides",
+                "title": "Overview"
+            },
+            {
+                "id": "/guides#general",
+                "href": "/guides#general",
+                "title": "General",
+                "items": [{
+                    "id": "/guides/general/inline-blocks/overview",
+                    "slug": "/guides/general/inline-blocks/overview",
+                    "title": "Inline Blocks"
+                }]
+            },
+            {
+                "id": "/guides#nextjs",
+                "href": "/guides#nextjs",
+                "title": "Next.js",
+                "items": [{
+                        "id": "/guides/nextjs/adding-tina/overview",
+                        "slug": "/guides/nextjs/adding-tina/overview",
+                        "title": "Adding Tina"
+                    },
+                    {
+                        "id": "/guides/nextjs/git/getting-started",
+                        "slug": "/guides/nextjs/git/getting-started",
+                        "title": "Git Backend"
+                    },
+                    {
+                        "id": "/guides/nextjs/github/initial-setup",
+                        "slug": "/guides/nextjs/github/initial-setup",
+                        "title": "GitHub Backend"
+                    },
+                    {
+                        "id": "/guides/nextjs/tina-with-strapi/overview",
+                        "slug": "/guides/nextjs/tina-with-strapi/overview",
+                        "title": "Strapi Backend"
+                    }
+                ]
+            },
+            {
+                "id": "/guides#gatsby",
+                "href": "/guides#gatsby",
+                "title": "Gatsby",
+                "items": [{
+                        "id": "/guides/gatsby/adding-tina/project-setup",
+                        "slug": "/guides/gatsby/adding-tina/project-setup",
+                        "title": "Adding Tina"
+                    },
+                    {
+                        "id": "/guides/gatsby/git/installation",
+                        "slug": "/guides/gatsby/git/installation",
+                        "title": "Git Backend"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "id": "/guides#gatsby",
-        "href": "/guides#gatsby",
-        "title": "Gatsby",
-        "items": [
-          {
-            "id": "/guides/gatsby/adding-tina/project-setup",
-            "slug": "/guides/gatsby/adding-tina/project-setup",
-            "title": "Adding Tina"
-          },
-          {
-            "id": "/guides/gatsby/git/installation",
-            "slug": "/guides/gatsby/git/installation",
-            "title": "Git Backend"
-          }
+    },
+    {
+        "title": "Release Notes",
+        "id": "releases",
+        "items": [{
+            "id": "/docs/releases",
+            "href": "/docs/releases",
+            "title": "All Releases"
+        }]
+    },
+    {
+        "title": "Packages",
+        "id": "packages",
+        "items": [{
+                "id": "/packages",
+                "slug": "/packages",
+                "title": "All Packages"
+            },
+            {
+                "id": "/packages/react-tinacms-date",
+                "slug": "/packages/react-tinacms-date",
+                "title": "react-tinacms-date"
+            },
+            {
+                "id": "/packages/react-tinacms-editor",
+                "slug": "/packages/react-tinacms-editor",
+                "title": "react-tinacms-editor"
+            },
+            {
+                "id": "/packages/react-tinacms-github",
+                "slug": "/packages/react-tinacms-github",
+                "title": "react-tinacms-github"
+            },
+            {
+                "id": "/packages/react-tinacms-inline",
+                "slug": "/packages/react-tinacms-inline",
+                "title": "react-tinacms-inline"
+            },
+            {
+                "id": "/packages/react-tinacms-strapi",
+                "slug": "/packages/react-tinacms-strapi",
+                "title": "react-tinacms-strapi"
+            },
+            {
+                "id": "/packages/next-tinacms-github",
+                "slug": "/packages/next-tinacms-github",
+                "title": "next-tinacms-github"
+            },
+            {
+                "id": "/packages/next-tinacms-json",
+                "slug": "/packages/next-tinacms-json",
+                "title": "next-tinacms-json"
+            },
+            {
+                "id": "/packages/next-tinacms-markdown",
+                "slug": "/packages/next-tinacms-markdown",
+                "title": "next-tinacms-markdown"
+            },
+            {
+                "id": "/packages/gatsby-plugin-tinacms",
+                "slug": "/packages/gatsby-plugin-tinacms",
+                "title": "gatsby-plugin-tinacms"
+            },
+            {
+                "id": "/packages/gatsby-tinacms-git",
+                "slug": "/packages/gatsby-tinacms-git",
+                "title": "gatsby-tinacms-git"
+            },
+            {
+                "id": "/packages/gatsby-tinacms-json",
+                "slug": "/packages/gatsby-tinacms-json",
+                "title": "gatsby-tinacms-json"
+            },
+            {
+                "id": "/packages/gatsby-tinacms-remark",
+                "slug": "/packages/gatsby-tinacms-remark",
+                "title": "gatsby-tinacms-remark"
+            }
         ]
-      }
-    ]
-  },
-  {
-    "title": "Release Notes",
-    "id": "releases",
-    "items": [
-      {
-        "id": "/docs/releases",
-        "href": "/docs/releases",
-        "title": "All Releases"
-      }
-    ]
-  },
-  {
-    "title": "Packages",
-    "id": "packages",
-    "items": [
-      {
-        "id": "/packages",
-        "slug": "/packages",
-        "title": "All Packages"
-      },
-      {
-        "id": "/packages/react-tinacms-date",
-        "slug": "/packages/react-tinacms-date",
-        "title": "react-tinacms-date"
-      },
-      {
-        "id": "/packages/react-tinacms-editor",
-        "slug": "/packages/react-tinacms-editor",
-        "title": "react-tinacms-editor"
-      },
-      {
-        "id": "/packages/react-tinacms-github",
-        "slug": "/packages/react-tinacms-github",
-        "title": "react-tinacms-github"
-      },
-      {
-        "id": "/packages/react-tinacms-inline",
-        "slug": "/packages/react-tinacms-inline",
-        "title": "react-tinacms-inline"
-      },
-      {
-        "id": "/packages/react-tinacms-strapi",
-        "slug": "/packages/react-tinacms-strapi",
-        "title": "react-tinacms-strapi"
-      },
-      {
-        "id": "/packages/next-tinacms-github",
-        "slug": "/packages/next-tinacms-github",
-        "title": "next-tinacms-github"
-      },
-      {
-        "id": "/packages/next-tinacms-json",
-        "slug": "/packages/next-tinacms-json",
-        "title": "next-tinacms-json"
-      },
-      {
-        "id": "/packages/next-tinacms-markdown",
-        "slug": "/packages/next-tinacms-markdown",
-        "title": "next-tinacms-markdown"
-      },
-      {
-        "id": "/packages/gatsby-plugin-tinacms",
-        "slug": "/packages/gatsby-plugin-tinacms",
-        "title": "gatsby-plugin-tinacms"
-      },
-      {
-        "id": "/packages/gatsby-tinacms-git",
-        "slug": "/packages/gatsby-tinacms-git",
-        "title": "gatsby-tinacms-git"
-      },
-      {
-        "id": "/packages/gatsby-tinacms-json",
-        "slug": "/packages/gatsby-tinacms-json",
-        "title": "gatsby-tinacms-json"
-      },
-      {
-        "id": "/packages/gatsby-tinacms-remark",
-        "slug": "/packages/gatsby-tinacms-remark",
-        "title": "gatsby-tinacms-remark"
-      }
-    ]
-  }
+    }
 ]
